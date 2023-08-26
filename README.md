@@ -1,4 +1,7 @@
 ### Hi there 👋
+Aspiring to be MERN Stack developer and also have slight intrest on Competitive programming.
+🔭 Currently I have started working on Node.js, Express.js and REST APIS.
+🌱 I’m currently learning about databases.
 
 <!--
 **Pree46/Pree46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
