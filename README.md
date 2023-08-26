@@ -1,6 +1,6 @@
 ### Hi there 👋
-Aspiring to be MERN Stack developer and also have slight intrest on Competitive programming.
-🔭 Currently I have started working on Node.js, Express.js and REST APIS.
+Aspiring to be MERN Stack developer and also have slight intrest on Competitive programming.<br>
+🔭 Currently I have started working on Node.js, Express.js and REST APIS.<br>
 🌱 I’m currently learning about databases.
 
 <!--
