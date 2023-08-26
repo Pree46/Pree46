@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Pree46's GitHub | Stats](https://stats.quine.sh/Pree46/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pree46)
-[![Pree46's GitHub | Languages Over Time](https://stats.quine.sh/Pree46/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pree46)
+[![Pree46's GitHub | Stats](https://stats.quine.sh/Pree46/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pree46) [![Pree46's GitHub | Languages Over Time](https://stats.quine.sh/Pree46/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pree46)
