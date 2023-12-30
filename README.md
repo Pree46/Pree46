@@ -1,7 +1,6 @@
 ### Hi there 👋
-Aspiring to be MERN Stack developer and also have slight intrest on Competitive programming.
-Currently I have started working on Node.js, Express.js and REST APIS.
-I’m currently learning about databases.
+Aspiring to be FullStack developer and also have slight intrest on Competitive programming.
+Working on React.js Node.js, Express.js.
 
 <!--
 **Pree46/Pree46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Pree46's GitHub | Stats](https://stats.quine.sh/Pree46/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pree46)
+
