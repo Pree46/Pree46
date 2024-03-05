@@ -2,16 +2,14 @@
 I'm an aspiring software developer 👨‍💻 with a passion for creating innovative solutions. I specialize in FrontEnd Development, and have experience working with ReactJS, Java and Android Studio.
 
 
+<div style="margin-left: 16px;">
+    <a href="https://www.linkedin.com/in/r-preethi-09254724b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.hackerrank.com/profile/pr4438"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+    <a href="https://github.com/Pree46"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://replit.com/@Pree46"><img src="https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white" alt="Replit" /></a>
+  </div>
+</div>
 
-[//]: # (## 🌐 Socials:)
-
-[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/r-preethi-09254724b/&#41; )
-
-[//]: # ([![HackerRank]&#40;https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&#41;]&#40;https://www.hackerrank.com/profile/pr4438&#41;)
-
-[//]: # ([![GitHub]&#40;https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&#41;]&#40;https://github.com/Pree46&#41;)
-
-[//]: # ([![Replit]&#40;https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white&#41;]&#40;https://replit.com/@Pree46&#41;)
 
 
 
