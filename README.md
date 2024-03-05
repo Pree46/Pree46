@@ -22,5 +22,8 @@ I'm an aspiring software developer 👨‍💻 with a passion for creating innov
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pree46&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-sand.vercel.app/api/top-langs/?username=Pree46&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML,Blade)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
